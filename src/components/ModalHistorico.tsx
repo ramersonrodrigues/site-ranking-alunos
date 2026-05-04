@@ -60,7 +60,7 @@ export function ModalHistorico({ aluno, onClose }: ModalHistoricoProps) {
               Nenhum registro encontrado.
             </p>
           ) : (
-            aluno.historico.map((item, index) => {
+            [...aluno.historico].reverse().map((item, index) => {
               const isGanho = item.tipo === "ganho";
               return (
                 <div
