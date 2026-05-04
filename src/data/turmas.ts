@@ -10,7 +10,7 @@ const premiosPadrao: Premio[] = [
 ];
 
 const turmaA = new Turma(
-  "Turma A - 9º Ano",
+  "João Silva Filho - 3º Ano | Sistemas",
   [
     new Aluno("Lucas Silva", [
       new HistoricoItem("ganho", 15, "Participação em aula", "05/03/2025", "Matemática"),
@@ -47,7 +47,7 @@ const turmaA = new Turma(
 );
 
 const turmaB = new Turma(
-  "Turma B - 8º Ano",
+  "Raquel Magalhães - 2º Ano | Sistemas",
   [
     new Aluno("Isabela Santos", [
       new HistoricoItem("ganho", 20, "Prova com nota máxima", "06/03/2025", "Matemática"),
