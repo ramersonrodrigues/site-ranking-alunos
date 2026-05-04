@@ -4,10 +4,15 @@ import { Premio } from "../models/Premio";
 import { Turma } from "../models/Turma";
 
 const premiosPadrao: Premio[] = [
-  new Premio("Caixa de chocolate", 100),
-  new Premio("Barra de chocolate", 150),
-  new Premio("Livro", 200),
-  new Premio("Pizza", 250),
+  new Premio("Caneta Alex", 50),
+  new Premio("Barra chocolate", 100),
+  new Premio("Caixa de chocolate", 150),
+  new Premio("Livro - A Metamorfose", 150),
+  new Premio("Livro - Contos dos Irmãos Grimm", 600),
+  new Premio("Livro - Vidas Secas", 200),
+  new Premio("Livro - Cartas de um diabo a seu aprendiz", 400),
+  new Premio("Livro - Berserk - Comum", 400),
+
 ];
 
 const turmaA = new Turma(
