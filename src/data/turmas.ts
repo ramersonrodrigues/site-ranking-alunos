@@ -32,7 +32,7 @@ const turmaA = new Turma(
     new Aluno("Iasmin", [
       
     ]),
-    new Aluno("Vitor", [
+    new Aluno("Victor", [
       
     ]),
     new Aluno("Caio", [
@@ -60,6 +60,9 @@ const turmaA = new Turma(
       
     ]),
     new Aluno("André", [
+      
+    ]),
+    new Aluno("Nara", [
       
     ]),
 
