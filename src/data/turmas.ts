@@ -1,5 +1,5 @@
 import { Aluno } from "../models/Aluno";
-import { HistoricoItem } from "../models/HistoricoItem";
+//import { HistoricoItem } from "../models/HistoricoItem";
 import { Premio } from "../models/Premio";
 import { Turma } from "../models/Turma";
 
