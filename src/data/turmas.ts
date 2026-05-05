@@ -79,6 +79,39 @@ const turmaB = new Turma(
      new Aluno("Alerrandro", [
       
     ]),
+    new Aluno("Fabiola", [
+      
+    ]),
+    new Aluno("Maria Vitoria", [
+      
+    ]),
+    new Aluno("Alany", [
+      
+    ]),
+    new Aluno("Mainara", [
+      
+    ]),
+    new Aluno("Lucas", [
+      
+    ]),
+    new Aluno("Iarlisson", [
+      
+    ]),
+    new Aluno("Kauã Nascimento", [
+      
+    ]),
+    new Aluno("Ilzamra", [
+      
+    ]),
+    new Aluno("Thais", [
+      
+    ]),
+    new Aluno("Annykelly", [
+      
+    ]),
+    new Aluno("Francisco", [
+      
+    ]),
 
   ],
   premiosPadrao
