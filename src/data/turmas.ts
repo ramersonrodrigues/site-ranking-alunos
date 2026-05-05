@@ -80,7 +80,7 @@ const turmaB = new Turma(
 );
 
 const turmaC = new Turma(
-  "Raquel Magalhães - 3º Ano | IA",
+  "Raquel Magalhães - 3º Ano | I.A.",
   [
 
 
