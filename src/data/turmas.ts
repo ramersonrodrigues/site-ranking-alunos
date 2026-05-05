@@ -90,9 +90,6 @@ const turmaC = new Turma(
     new Aluno("Mateus", [
       
     ]),
-     new Aluno("Alerrandro", [
-      
-    ]),
 
 
   ],
