@@ -1,5 +1,5 @@
 import { Aluno } from "../models/Aluno";
-//import { HistoricoItem } from "../models/HistoricoItem";
+import { HistoricoItem } from "../models/HistoricoItem";
 import { Premio } from "../models/Premio";
 import { Turma } from "../models/Turma";
 
@@ -36,24 +36,24 @@ const turmaA = new Turma(
       
     ]),
     new Aluno("Caio", [
-      
+       new HistoricoItem("ganho", 10, "Exercicio", "05/03/2025", "Segurança de Sistemas"),
     ]),
     new Aluno("Alex", [
       
     ]),
-      new Aluno("Hanna", [
+    new Aluno("Hanna", [
+      new HistoricoItem("ganho", 10, "Exercicio", "05/03/2025", "Segurança de Sistemas"),
+    ]),
+    new Aluno("Karlos", [
       
     ]),
-      new Aluno("Karlos", [
+    new Aluno("Arthur", [
       
     ]),
-      new Aluno("Arthur", [
+    new Aluno("Flavia", [
       
     ]),
-       new Aluno("Flavia", [
-      
-    ]),
-      new Aluno("Ana Carolina", [
+    new Aluno("Ana Carolina", [
       
     ]),
     new Aluno("Ana Karoliny", [
