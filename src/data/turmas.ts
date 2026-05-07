@@ -57,7 +57,7 @@ const turmaA = new Turma(
       
     ]),
     new Aluno("Ana Karoliny", [
-      
+      new HistoricoItem("ganho", 10, "Exercicio", "05/03/2025", "Segurança de Sistemas"),
     ]),
     new Aluno("André", [
       
@@ -74,10 +74,10 @@ const turmaB = new Turma(
   "Raquel Magalhães - 2º Ano",
   [
     new Aluno("Gustavo", [
-      
+      new HistoricoItem("ganho", 10, "Exercicio", "07/03/2025", "POO"),
     ]),
      new Aluno("Alerrandro", [
-      
+      new HistoricoItem("ganho", 10, "Exercicio", "07/03/2025", "POO"),
     ]),
     new Aluno("Fabiola", [
       
@@ -112,6 +112,10 @@ const turmaB = new Turma(
     new Aluno("Francisco", [
       
     ]),
+    new Aluno("Julio", [
+      new HistoricoItem("ganho", 3, "Exercicio", "07/03/2025", "POO"),
+    ]),
+
 
   ],
   premiosPadrao
