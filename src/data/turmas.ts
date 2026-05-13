@@ -54,10 +54,11 @@ const turmaA = new Turma(
       
     ]),
     new Aluno("Ana Carolina", [
-      
+      new HistoricoItem("ganho", 5, "Exercicio", "13/03/2025", "Segurança de Sistemas"),
     ]),
     new Aluno("Ana Karoliny", [
       new HistoricoItem("ganho", 10, "Exercicio", "05/03/2025", "Segurança de Sistemas"),
+      new HistoricoItem("ganho", 10, "Exercicio", "13/03/2025", "Segurança de Sistemas"),
     ]),
     new Aluno("André", [
       
