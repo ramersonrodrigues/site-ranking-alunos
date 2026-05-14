@@ -84,22 +84,22 @@ const turmaB = new Turma(
       
     ]),
     new Aluno("Maria Vitoria", [
-      
+      new HistoricoItem("ganho", 2, "Exercicio", "14/03/2025", "POO"),
     ]),
     new Aluno("Alany", [
-      
+       new HistoricoItem("ganho", 2, "Exercicio", "14/03/2025", "POO"),
     ]),
     new Aluno("Mainara", [
-      
+       new HistoricoItem("ganho",2, "Exercicio", "14/03/2025", "POO"),
     ]),
     new Aluno("Lucas", [
-      
+       new HistoricoItem("ganho", 2, "Exercicio", "14/03/2025", "POO"),
     ]),
     new Aluno("Iarlisson", [
       
     ]),
     new Aluno("Kauã Nascimento", [
-      
+      new HistoricoItem("ganho", 2, "Exercicio", "14/03/2025", "POO"),
     ]),
     new Aluno("Ilzamra", [
       
