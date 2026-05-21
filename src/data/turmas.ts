@@ -77,6 +77,7 @@ const turmaB = new Turma(
     new Aluno("Gustavo", [
       new HistoricoItem("ganho", 10, "Exercicio", "07/03/2025", "POO"),
       new HistoricoItem("ganho", 10, "Apresentação trabalho", "15/03/2025", "IA"),
+      new HistoricoItem("ganho", 10, "Exercicio HTML e CSS", "15/03/2025", "Frontend"),
     ]),
      new Aluno("Alerrandro", [
       new HistoricoItem("ganho", 10, "Exercicio", "07/03/2025", "POO"),
