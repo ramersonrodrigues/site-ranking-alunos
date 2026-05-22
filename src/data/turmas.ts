@@ -26,11 +26,11 @@ const turmaA = new Turma(
     //   new HistoricoItem("uso", 10, "Nota", "25/03/2025", "Matemática"),
     // ]),
     new Aluno("Sarah", [
-      
+      new HistoricoItem("ganho", 5, "Exercicio", "22/05/2025", "Frontend"),
     ]),
     
     new Aluno("Iasmin", [
-      
+      new HistoricoItem("ganho", 10, "Exercicio", "22/05/2025", "POO"),
     ]),
     new Aluno("Victor", [
       
@@ -64,7 +64,8 @@ const turmaA = new Turma(
       
     ]),
     new Aluno("Nara", [
-      
+        new HistoricoItem("ganho", 7, "Exercicio", "22/05/2025", "POO"),
+        new HistoricoItem("ganho", 10, "Exercicio", "22/05/2025", "POO"),
     ]),
 
   ],
