@@ -27,6 +27,7 @@ const turmaA = new Turma(
     // ]),
     new Aluno("Sarah", [
       new HistoricoItem("ganho", 5, "Exercicio", "22/05/2025", "Frontend"),
+      new HistoricoItem("ganho", 5, "Exercicio", "22/05/2025", "Frontend"),
     ]),
     
     new Aluno("Iasmin", [
@@ -44,12 +45,14 @@ const turmaA = new Turma(
     new Aluno("Hanna", [
       new HistoricoItem("ganho", 10, "Exercicio", "05/03/2025", "Segurança de Sistemas"),
       new HistoricoItem("ganho", 5, "Exercicio", "22/05/2025", "POO"),
+      new HistoricoItem("ganho", 5, "Exercicio", "25/05/2025", "Frontend"),
     ]),
     new Aluno("Karlos", [
       new HistoricoItem("ganho", 5, "Exercicio", "22/05/2025", "POO"),
+      new HistoricoItem("ganho", 5, "Exercicio", "25/05/2025", "Frontend"),
     ]),
     new Aluno("Arthur", [
-      
+      new HistoricoItem("ganho", 5, "Exercicio", "25/05/2025", "Frontend"),
     ]),
     new Aluno("Flavia", [
       
@@ -60,6 +63,7 @@ const turmaA = new Turma(
     new Aluno("Ana Karoliny", [
       new HistoricoItem("ganho", 10, "Exercicio", "05/03/2025", "Segurança de Sistemas"),
       new HistoricoItem("ganho", 10, "Exercicio", "13/03/2025", "Segurança de Sistemas"),
+      new HistoricoItem("ganho", 5, "Exercicio", "25/05/2025", "Frontend"),
     ]),
     new Aluno("André", [
       
@@ -67,6 +71,7 @@ const turmaA = new Turma(
     new Aluno("Nara", [
         new HistoricoItem("ganho", 7, "Exercicio", "22/05/2025", "POO"),
         new HistoricoItem("ganho", 10, "Exercicio", "22/05/2025", "POO"),
+        new HistoricoItem("ganho", 5, "Exercicio", "25/05/2025", "Frontend"),
     ]),
 
   ],
