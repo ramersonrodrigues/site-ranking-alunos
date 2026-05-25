@@ -69,7 +69,7 @@ const turmaA = new Turma(
       
     ]),
     new Aluno("Nara", [
-        new HistoricoItem("ganho", 7, "Exercicio", "22/05/2025", "POO"),
+        new HistoricoItem("ganho", 10, "Exercicio", "22/05/2025", "POO"),
         new HistoricoItem("ganho", 10, "Exercicio", "22/05/2025", "POO"),
         new HistoricoItem("ganho", 5, "Exercicio", "25/05/2025", "Frontend"),
     ]),
