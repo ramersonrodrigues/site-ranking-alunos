@@ -39,7 +39,7 @@ const turmaA = new Turma(
     ]),
     new Aluno("Victor", [
         new HistoricoItem("ganho", 30, "Exercicio", "29/05/2025", "Mini teste - Matematica"),
-
+        new HistoricoItem("ganho", 5, "Exercicio", "29/05/2025", "Frontend"),
     ]),
     new Aluno("Caio", [
        new HistoricoItem("ganho", 10, "Exercicio", "05/03/2025", "Segurança de Sistemas"),
@@ -78,6 +78,8 @@ const turmaA = new Turma(
     ]),
     new Aluno("Ana Carolina", [
       new HistoricoItem("ganho", 5, "Exercicio", "13/03/2025", "Segurança de Sistemas"),
+      new HistoricoItem("ganho", 4, "Exercicio", "13/03/2025", "Frontend"),
+      new HistoricoItem("ganho", 3, "Exercicio", "13/03/2025", "Frontend"),
     ]),
     new Aluno("Ana Karoliny", [
       new HistoricoItem("ganho", 10, "Exercicio", "05/03/2025", "Segurança de Sistemas"),
